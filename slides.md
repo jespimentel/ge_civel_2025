@@ -12,49 +12,47 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# Objetivos
+# Agenda
 
-- Visão geral sobre o tema
-- Noções de "Engenharia de Prompt"
-- Aplicações práticas: Agentes, GEMs e GPTs
-- Dicas para a implementação
-
----
-
-# Fora do escopo (mas possível com LLMs)
-
-- Obtenção de hashes e manipulação de arquivos
-- Obtenção de frames e tratamento de imagens
-- Análise de dados
-- Brainstorm
-- Encadeamento de prompts
-- Etc... (é um "canivete suíço")
-
-## Disponível em: [ESMP](https://mpspbr.sharepoint.com/sites/acervo-videos-stream/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Facervo%2Dvideos%2Dstream%2FDocumentos%20Compartilhados%2FESMPSP%2FEventos%2F2025%5FIA%20Generativa%20na%20Promotoria%5FAprendizados%2C%20Limita%C3%A7%C3%B5es%20e%20o%20que%20Funciona%20Agora&p=true&ga=1) e [Apostila](https://github.com/jespimentel/ia_gen_na_promotoria/raw/main/apostila/IA_Gen_Promotoria_Pimentel.pdf) 
+- Vivendo o *hype* da IA Gen
+- A IA Gen e o sigilo processual 
+- A estratégia das instituições
+- Tudo é contexto na "Engenharia de Prompt"
+- Copilot e Agentes
+- Por onde seguir?
 
 ---
 
-# Slides
-
-![QR code do site](img/qr_ge_campinas_2025.png)
-
-<https://jespimentel.github.io/ge_campinas_2025/>
+# Vivendo o *hype* da IA Gen
 
 ---
-
-# Repositório dos prompts deste GE: 
-
-<https://github.com/jespimentel/ge_campinas_2025/tree/main/prompts>
-
----
-
-# O que são modelos de linguagem
 
 ## Visão geral
 
 - Modelos aprendem como as informações se organizam e estão estatisticamente distribuídas no corpus de treinamento
 - LLMs: geram textos coerentes e relevantes em resposta aos comandos (**prompts**)
 - Não possuem conhecimentos factuais
+
+---
+
+## Aplicações
+
+- Redação de documentos
+- Análise e resumo de texto
+- Pesquisa jurídica (Jurisprudência GPT)
+- Revisão e correção de texto
+- Treinamento
+
+---
+
+## Dá pra fazer também...
+
+- Obtenção de hashes e manipulação de arquivos
+- Obtenção de frames e tratamento de imagens
+- Análise de dados
+- Infográficos, linhas do tempo, esquemas (Mermaid)
+- Brainstorm
+- Etc... (é um "canivete suíço")
 
 ---
 
@@ -76,6 +74,10 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
+# A IA Gen e o sigilo processual
+
+---
+
 # Regulamentação
 
 - PCA nº 0000416-89.2023.2.00.0000 (j. 21/06/2024)
@@ -88,18 +90,25 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# Modelos. Qual escolher?
+## Aviso nº 009/2025 - CGMP
 
-- Copilot
-- Gemini (*)
-- ChatGPT
-- NotebookLM 
-- Perplexity
-- Outros
+- utilização **prioritária** do Copilot
+- **anonimização** dos dados ao se utilizar ferramentas de IA não contratadas
+- abstenção do compartilhamento de **dados sensíveis ou sigilosos** em "plataformas abertas"
+- **revisão criteriosa de todo conteúdo gerado**
 
 ---
 
-# Engenharia de prompt
+# A estratégia das instituições
+
+---
+
+---
+
+# Tudo é contexto na "Engenharia de Prompt"
+
+---
+## Noções de Engenharia de prompt
 
 - **Contexto**: fornece informações situacionais que ajudam o modelo a compreender melhor o cenário sobre o qual ele aplicará as instruções.
 - **Dados de entrada**: informação ou arquivo fornecido à IA para processamento.
@@ -108,7 +117,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 - **Formato de saída**: orienta o modelo sobre a forma de apresentar a resposta (exemplos: "em formato de tabela", "como uma lista de pontos (bullet points)", "em linguagem formal", "com no máximo 2 parágrafos", "na forma do(s) exemplo(s) fornecido(s)"). 
 ---
 
-# Dicas para a elaboração de bons prompts:
+## Dicas para a elaboração de bons prompts:
 
 - Comece simples
 - Divida tarefas complexas
@@ -122,7 +131,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# "Vazamento" do System Prompt da Anthropic
+## "Vazamento" do System Prompt da Anthropic
 
 - [System Prompt do Claude 4](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_4.txt) - 22/05/2025
 
@@ -139,7 +148,9 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# Construção de Agentes (Copilot), GEMs e GPTs
+# Copilot e Agentes
+
+---
 
 - Especificidades
 - Capacidades
@@ -158,28 +169,18 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# Análise de um processo com o NotebookLM
+# Por onde seguir?
 
-- Visão geral
-- Tipos de fontes
-- Documento de resumo
-- Mapa mental
-- Linha do tempo
-- Conversa aprofundada (personalização)
+
+
 
 ---
-
-# Visual Law
-
-- Infográficos
-- Linha do tempo
-- Esquemas (com Mermaid)
 
 ---
 
 # Dicas de implementação
 
-- Casos simples
+- Casos mais simples
 - Criação de agentes "especializados"
 - Nova configuração de peças:
 	- fatos
@@ -187,17 +188,35 @@ GE Cível da Capital | São Paulo, 30/09/2025
 	- identificação dos casos reaproveitáveis (recuperação)
 - GoogleKeep (ou equivalente)
 	- BD de prompts e aprendizado compartilhado
-	- BD de teses e julgados  
+	- BD de teses e julgados
+- Compartilhamento   
 
 ---
 
 # Para saber mais:
 
-[A IA GENERATIVA NA PROMOTORIA (Pimentel)](https://github.com/jespimentel/ia_gen_na_promotoria/raw/main/apostila/IA_Gen_Promotoria_Pimentel.pdf)
+- [A IA GENERATIVA NA PROMOTORIA (Pimentel)](https://github.com/jespimentel/ia_gen_na_promotoria/raw/main/apostila/IA_Gen_Promotoria_Pimentel.pdf)
 
-[Prompting Guide 101 (Google)](https://workspace.google.com/learning/content/gemini-prompt-guide?hl=pt-BR)
+- [Prompting Guide 101 (Google)](https://workspace.google.com/learning/content/gemini-prompt-guide?hl=pt-BR)
 
-[What Is ChatGPT Doing … and Why Does It Work? (Stephen Wolfram)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [What Is ChatGPT Doing … and Why Does It Work? (Stephen Wolfram)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
+- [Acervo de vídeos da ESMP](https://mpspbr.sharepoint.com/sites/acervo-videos-stream/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Facervo%2Dvideos%2Dstream%2FDocumentos%20Compartilhados%2FESMPSP%2FEventos%2F2025%5FIA%20Generativa%20na%20Promotoria%5FAprendizados%2C%20Limita%C3%A7%C3%B5es%20e%20o%20que%20Funciona%20Agora&p=true&ga=1) 
+ 
+
+---
+
+## Slides da palestra
+
+![QR code do site](EDITAR.png)
+
+<https://jespimentel.github.io/ge_campinas_2025/>
+
+---
+
+## Repositório dos prompts deste GE: 
+
+<https://github.com/jespimentel/ge_civel_2025/tree/main/prompts>
 
 
 ---
