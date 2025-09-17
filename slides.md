@@ -35,7 +35,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-## Aplicações
+## Aplicações mais óbvias
 
 - Redação de documentos
 - Análise e resumo de texto
@@ -50,7 +50,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 - Obtenção de hashes e manipulação de arquivos
 - Obtenção de frames e tratamento de imagens
 - Análise de dados
-- Infográficos, linhas do tempo, esquemas (Mermaid)
+- Infográficos, linhas do tempo, esquemas
 - Brainstorm
 - Etc... (é um "canivete suíço")
 
@@ -78,7 +78,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# Regulamentação
+## Regulamentação
 
 - PCA nº 0000416-89.2023.2.00.0000 (j. 21/06/2024)
 - Resolução nº [615/2025 - CNJ](https://atos.cnj.jus.br/files/original1555302025031467d4517244566.pdf)
@@ -99,9 +99,16 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# A estratégia das instituições
+## Estratégias das instituições
 
----
+- Judiciáro: **ApoIA** (integrada ao PD e Codex)
+	- Chave da API (tribunal custeia | privado)
+	- Não contempla: criminal e proc. sigilosos
+- MPSP: **Tilene**
+	- RAG e APIs (GPT-4o e GPT4.1)
+	- Prompts: pré-configurado | livre | pós-upload
+	- Aspectos positivos
+	- Crítica pessoal: caso de uso definido
 
 ---
 
@@ -135,7 +142,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 - [System Prompt do Claude 4](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_4.txt) - 22/05/2025
 
-**Lições aprendidas:**
+## Lições aprendidas
 
 - O prompt pode ser grande (15k+)
 - Seções estruturadas por XML: <externa><interna></interna></externa>
@@ -152,13 +159,15 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
+## Visão geral
+
 - Especificidades
 - Capacidades
 - Pros e Cons
 
 ---
 
-# Estratégias
+## Sugestões de uso
 
 - Corretor de peças (prompt básico)
 - Audiência de custódia (resultado formatado)
@@ -169,16 +178,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# Por onde seguir?
-
-
-
-
----
-
----
-
-# Dicas de implementação
+## Dicas de implementação
 
 - Casos mais simples
 - Criação de agentes "especializados"
@@ -193,7 +193,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# Para saber mais:
+# Por onde seguir?
 
 - [A IA GENERATIVA NA PROMOTORIA (Pimentel)](https://github.com/jespimentel/ia_gen_na_promotoria/raw/main/apostila/IA_Gen_Promotoria_Pimentel.pdf)
 
