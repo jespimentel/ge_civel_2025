@@ -5,10 +5,10 @@ theme: default
 
 ---
 
-# AGENTES DE IA E PROCESSOS JUDICIAIS SIGILOSOS: estratégias e limitações 
-## José Eduardo de Souza Pimentel
-
-
+# AGENTES DE IA E PROCESSOS JUDICIAIS SIGILOSOS
+## Estratégias e limitações
+..................................................................
+José Eduardo de Souza Pimentel
 GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
@@ -103,6 +103,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 # As estratégias das instituições
 
 ---
+
 ## Ferramentas "oficiais"
 
 - Judiciário: **ApoIA** (integrada ao PD e Codex)
@@ -119,6 +120,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 # Tudo é contexto na "Engenharia de Prompt"
 
 ---
+
 ## Noções de Engenharia de prompt
 
 - **Contexto**: fornece informações situacionais que ajudam o modelo a compreender melhor o cenário sobre o qual ele aplicará as instruções.
