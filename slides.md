@@ -91,7 +91,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-## Aviso nº 009/2025 - CGMP
+## Aviso nº [009/2025 - CGMP](https://biblioteca.mpsp.mp.br/PHL_IMG/AVISOS/009-cgmp%202025.pdf)
 
 - utilização **prioritária** do Copilot
 - **anonimização** dos dados ao se utilizar ferramentas de IA não contratadas
@@ -196,10 +196,10 @@ GE Cível da Capital | São Paulo, 30/09/2025
 	- fatos
 	- fundamentos jurídicos
 	- identificação dos casos reaproveitáveis (recuperação)
-- GoogleKeep (ou equivalente)
-	- BD de prompts e aprendizado compartilhado
-	- BD de teses e julgados
-- Compartilhamento   
+- BD de prompts
+	- Institucional (!?)
+	- Pessoal (Google Keep, Obsidian, etc.)
+- Compartilhamento e aprendizado constante  
 
 ---
 
