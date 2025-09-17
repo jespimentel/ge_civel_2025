@@ -1,6 +1,7 @@
 ---
 
 marp: true
+theme: default
 
 ---
 
@@ -16,7 +17,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 - Vivendo o *hype* da IA Gen
 - A IA Gen e o sigilo processual 
-- A estratégia das instituições
+- As estratégias das instituições
 - Tudo é contexto na "Engenharia de Prompt"
 - Copilot e Agentes
 - Por onde seguir?
@@ -99,9 +100,12 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-## Estratégias das instituições
+# As estratégias das instituições
 
-- Judiciáro: **ApoIA** (integrada ao PD e Codex)
+---
+## Ferramentas "oficiais"
+
+- Judiciário: **ApoIA** (integrada ao PD e Codex)
 	- Chave da API (tribunal custeia | privado)
 	- Não contempla: criminal e proc. sigilosos
 - MPSP: **Tilene**
@@ -122,6 +126,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 - **Persona**: define o papel do modelo (exemplo: "Você é um promotor de justiça.")
 - **Tarefas**: define as tarefas que o modelo deve executar (exemplos: "analise", "compare", "liste", "reescreva", “resuma de forma estruturada”). 
 - **Formato de saída**: orienta o modelo sobre a forma de apresentar a resposta (exemplos: "em formato de tabela", "como uma lista de pontos (bullet points)", "em linguagem formal", "com no máximo 2 parágrafos", "na forma do(s) exemplo(s) fornecido(s)"). 
+
 ---
 
 ## Dicas para a elaboração de bons prompts:
@@ -161,6 +166,8 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ## Visão geral
 
+![bg right](img/gemini_chatgpt.jpeg)
+
 - Especificidades
 - Capacidades
 - Pros e Cons
@@ -170,10 +177,13 @@ GE Cível da Capital | São Paulo, 30/09/2025
 ## Sugestões de uso
 
 - Corretor de peças (prompt básico)
+- Relatórios processuais (few-shot prompting)
+- Peças processuais (carga de exemplos)
 - Audiência de custódia (resultado formatado)
 - MPU (placeholder + separação fato/fundamento)
-- Resumidor de IP (uso de exemplos no prompt)
-- Peças processuais (roteiro a ser seguido)
+
+### Para soluções comerciais:
+
 - Denunciador "preguiçoso" (uso de base de conhecimento)
 
 ---
