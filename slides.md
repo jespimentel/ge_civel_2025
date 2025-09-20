@@ -7,9 +7,9 @@ theme: default
 
 # AGENTES DE IA E PROCESSOS JUDICIAIS SIGILOSOS
 ## Estratégias e limitações
-..................................................................
+.............................................................
 José Eduardo de Souza Pimentel
-GE Cível da Capital | São Paulo, 30/09/2025
+GE Cível da Capital | 30/09/2025
 
 ---
 
@@ -17,7 +17,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 - Vivendo o *hype* da IA Gen
 - A IA Gen e o sigilo processual 
-- As estratégias das instituições
+- As estratégias das corporações
 - Tudo é contexto na "Engenharia de Prompt"
 - Copilot e Agentes
 - Por onde seguir?
@@ -28,11 +28,28 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
+![bg](img/hype.png)
+
+Fonte: [Sigalei](https://www.sigalei.com.br/)
+
+Set. 2025.
+
+---
+
 ## Visão geral
 
 - Modelos aprendem como as informações se organizam e estão estatisticamente distribuídas no corpus de treinamento
 - LLMs: geram textos coerentes e relevantes em resposta aos comandos (**prompts**)
 - Não possuem conhecimentos factuais
+
+---
+
+## Atuação "agêntica"
+![bg](img/strawberry.png)
+
+Fonte: Autor
+
+Set. 2025
 
 ---
 
@@ -100,7 +117,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# As estratégias das instituições
+# As estratégias das corporações
 
 ---
 
@@ -112,8 +129,13 @@ GE Cível da Capital | São Paulo, 30/09/2025
 - MPSP: **Tilene**
 	- RAG e APIs (GPT-4o e GPT4.1)
 	- Prompts: pré-configurado | livre | pós-upload
-	- Aspectos positivos
-	- Crítica pessoal: caso de uso definido
+	- Caso de uso (?)
+
+---
+![bg](img/output-filter.png)
+Fonte: [Microsoft](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/content-filtering)
+
+Set. 2025
 
 ---
 
@@ -147,7 +169,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ## "Vazamento" do System Prompt da Anthropic
 
-- [System Prompt do Claude 4](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_4.txt) - 22/05/2025
+- [System Prompt do Claude 4](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_4.txt) (22/05/2025)
 
 ## Lições aprendidas
 
@@ -181,12 +203,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 - Corretor de peças (prompt básico)
 - Relatórios processuais (few-shot prompting)
 - Peças processuais (carga de exemplos)
-- Audiência de custódia (resultado formatado)
-- MPU (placeholder + separação fato/fundamento)
-
-### Para soluções comerciais:
-
-- Denunciador "preguiçoso" (uso de base de conhecimento)
+- Estruturador de processos (resultado formatado)
 
 ---
 
@@ -233,7 +250,7 @@ GE Cível da Capital | São Paulo, 30/09/2025
 
 ---
 
-# Perguntas? Obrigado!
+# Obrigado!
 
 linkedin.com/in/jespimentel
 

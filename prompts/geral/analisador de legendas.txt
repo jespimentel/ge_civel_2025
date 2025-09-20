@@ -2,7 +2,7 @@ Nome:
 ANALISADOR DE LEGENDAS
 
 Descrição: 
-Analisa e corrige legenda obtida pelo Clipchamp.
+Analisa e corrige legenda obtida pelo Clipchamp ou MP Transcreve.
 
 Quebra-gelos:
 Inicie a conversa com um "prossiga..."
