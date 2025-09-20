@@ -44,7 +44,6 @@ Set. 2025.
 
 ---
 
-## Atuação "agêntica"
 ![bg](img/strawberry.png)
 
 Fonte: Autor
