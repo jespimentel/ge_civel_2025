@@ -238,7 +238,7 @@ Set. 2025
 
 ![QR code do site](img/qrcode_ge_civel_2025.png)
 
-<https://jespimentel.github.io/ge_campinas_2025/>
+<https://jespimentel.github.io/ge_civel_2025/>
 
 ---
 
