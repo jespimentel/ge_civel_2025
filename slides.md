@@ -236,7 +236,7 @@ Set. 2025
 
 ## Slides da palestra
 
-![QR code do site](EDITAR.png)
+![QR code do site](img/qrcode_ge_civel_2025.png)
 
 <https://jespimentel.github.io/ge_campinas_2025/>
 
