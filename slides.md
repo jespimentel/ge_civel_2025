@@ -106,7 +106,7 @@ Set. 2025
 - Resolução nº [615/2025 - CNJ](https://atos.cnj.jus.br/files/original1555302025031467d4517244566.pdf)
 	- assinatura ou cadastro privado (se não tiver solução corporativa)
 	- neste caso, proibido em dados sigilosos ou protegidos por segredo de justiça
-- Críticas:
+- Considerações:
 	- solução de produtividade pessoal
 	- assimetria com Defensores/Advogados
 
@@ -133,7 +133,7 @@ Set. 2025
 - MPSP: **Tilene**
 	- RAG e APIs (GPT-4o e GPT4.1)
 	- Prompts: pré-configurado | livre | pós-upload
-	- Caso de uso (?)
+	- Caso de uso
 
 ---
 ![bg](img/output-filter.png)
