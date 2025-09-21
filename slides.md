@@ -28,6 +28,11 @@ GE Cível da Capital | 30/09/2025
 
 ---
 
+![bg contain](img/openai-roadmap.jpg)
+
+
+---
+
 ![bg](img/hype.png)
 
 Fonte: [Sigalei](https://www.sigalei.com.br/)
@@ -194,6 +199,7 @@ Set. 2025
 - Especificidades
 - Capacidades
 - Pros e Cons
+- "Lost in the middle"
 
 ---
 
