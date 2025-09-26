@@ -1,5 +1,5 @@
 ---
-
+false
 marp: true
 theme: default
 
@@ -74,7 +74,8 @@ Set. 2025
 - Análise de dados
 - Infográficos, linhas do tempo, esquemas
 - Brainstorm
-- Etc... (é um "canivete suíço")
+- Apps ("vibe coding")
+- Etc... (**é um "canivete suíço"**)
 
 ---
 
@@ -167,7 +168,7 @@ Set. 2025
 - Forneça exemplos
 - Diga o que não fazer
 - Utilize tags (<tag></tag>) e/ou Markdown (#, ** e -)
-- Converse com o modelo (forneça feedbacks) 
+- Converse com o modelo (feedbacks e iteração) 
 
 ---
 
@@ -221,7 +222,7 @@ Set. 2025
 	- fundamentos jurídicos
 	- identificação dos casos reaproveitáveis (recuperação)
 - BD de prompts
-	- Institucional (!?)
+	- Institucional (?)
 	- Pessoal (Google Keep, Obsidian, etc.)
 - Compartilhamento e aprendizado constante  
 
