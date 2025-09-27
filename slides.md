@@ -19,7 +19,7 @@ GE Cível da Capital | 30/09/2025
 - A IA Gen e o sigilo processual 
 - As estratégias das corporações
 - Tudo é contexto na "Engenharia de Prompt"
-- MS 365 Copilot e Agentes
+- **M365 Copilot** e Agentes
 - Por onde seguir?
 
 ---
@@ -189,7 +189,7 @@ Set. 2025
 
 ---
 
-# Copilot e Agentes
+# M365 Copilot e Agentes
 
 ---
 
