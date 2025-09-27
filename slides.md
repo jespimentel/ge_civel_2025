@@ -19,7 +19,7 @@ GE Cível da Capital | 30/09/2025
 - A IA Gen e o sigilo processual 
 - As estratégias das corporações
 - Tudo é contexto na "Engenharia de Prompt"
-- Copilot e Agentes
+- MS 365 Copilot e Agentes
 - Por onde seguir?
 
 ---
@@ -45,7 +45,7 @@ Set. 2025.
 
 - Modelos aprendem como as informações se organizam e estão estatisticamente distribuídas no corpus de treinamento
 - LLMs: geram textos coerentes e relevantes em resposta aos comandos (**prompts**)
-- Não possuem conhecimentos factuais
+- Não possuem conhecimentos factuais (?)
 
 ---
 
@@ -81,13 +81,13 @@ Set. 2025
 
 ## Privacidade
 
-- Conhecer termos de uso e opções opt-in ou opt-out dos provedores
+- Conhecer termos de uso e opções *opt-in* ou *opt-out* dos provedores
 
 ## Alucinação
 
 - Modelos não possuem compreensão real dos assuntos
 - Respostas plausíveis (baseadas em padrões probabilísticos)
-- Em regra, não verificam a veracidade ou a completude das informações
+- "Não sabem o que não sabem"
 
 ## Sugestões:
 
@@ -134,7 +134,7 @@ Set. 2025
 - MPSP: **Tilene**
 	- RAG e APIs (GPT-4o e GPT4.1)
 	- Prompts: pré-configurado | livre | pós-upload
-	- Caso de uso
+	- Casos de uso (?)
 
 ---
 ![bg](img/output-filter.png)
@@ -168,7 +168,7 @@ Set. 2025
 - Forneça exemplos
 - Diga o que não fazer
 - Utilize tags (<tag></tag>) e/ou Markdown (#, ** e -)
-- Converse com o modelo (feedbacks e iteração) 
+- Converse com o modelo (iteração) 
 
 ---
 
@@ -209,7 +209,7 @@ Set. 2025
 - Corretor de peças (prompt básico)
 - Relatórios processuais (few-shot prompting)
 - Peças processuais (carga de exemplos)
-- Estruturador de processos (resultado formatado)
+- "Esquematizador" de processos (resultado formatado)
 
 ---
 
@@ -223,8 +223,9 @@ Set. 2025
 	- identificação dos casos reaproveitáveis (recuperação)
 - BD de prompts
 	- Institucional (?)
-	- Pessoal (Google Keep, Obsidian, etc.)
-- Compartilhamento e aprendizado constante  
+	- Pessoal (GitHub, Google Keep, Obsidian, etc.)
+- Compartilhamento de agentes
+- Aprendizado constante (sempre há novidades...) 
 
 ---
 
