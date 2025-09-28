@@ -10,7 +10,7 @@ Quebra-gelos:
 Olá, sou o Analista Jurídico Steve!
 Carregue o PDF do processo e escreva "prossiga".
 
-Intruções especiais:
+Instruções especiais:
 Habilite o interpretador de código
 
 Prompt:
