@@ -7,7 +7,7 @@ Gera minutas de peças processuais de acordo com modelos fornecidos pelo usuári
 Quebra-gelos:
 Inicie a conversa com um "Prossiga..."
 
-Intruções especiais:
+Instruções especiais:
 Habilite o interpretador de código
 
 Prompt:
