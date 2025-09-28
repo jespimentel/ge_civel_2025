@@ -7,7 +7,7 @@ theme: default
 
 # AGENTES DE IA E PROCESSOS JUDICIAIS SIGILOSOS
 ## Estratégias e limitações
-.............................................................
+..................................................................
 José Eduardo de Souza Pimentel
 GE Cível da Capital | 30/09/2025
 
@@ -208,8 +208,9 @@ Set. 2025
 
 - Corretor de peças (prompt básico)
 - Relatórios processuais (few-shot prompting)
-- Peças processuais (carga de exemplos)
+- **Peças processuais** (carga de exemplo)
 - "Esquematizador" de processos (resultado formatado)
+- **Analista jurídico** (divisão de tarefas e interação)
 
 ---
 
@@ -259,10 +260,10 @@ Set. 2025
 
 # Obrigado!
 
-linkedin.com/in/jespimentel
+[linkedin.com/in/jespimentel](https://linkedin.com/in/jespimentel)
 
-jespimentel.blogspot.com
+[jespimentel.blogspot.com](https://jespimentel.blogspot.com)
 
-github.com/jespimentel
+[github.com/jespimentel](https://github.com/jespimentel)
 
-pimentel@mpsp.mp.br
+[pimentel@mpsp.mp.br](mailto:pimentel@mpsp.mp.br)
